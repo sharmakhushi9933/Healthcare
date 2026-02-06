@@ -21,6 +21,7 @@ The project uses a relational database with the following tables:
 * **Patients** – Stores patient demographic details
 * **Diagnoses** – Contains diagnosis information
 * **Outcomes** – Records treatment outcomes for patients
+* **Labs** - Contains test results of patients 
 
 Relationships are established using **primary and foreign keys** to maintain data integrity.
 
@@ -51,6 +52,7 @@ Relationships are established using **primary and foreign keys** to maintain dat
 * Outcome-wise distribution of patients
 * Diagnosis vs Outcome analysis
 * Identification of trends in treatment outcomes
+* Abnormal test results 
 
 ---
 
