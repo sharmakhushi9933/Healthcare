@@ -1,7 +1,3 @@
-Here’s a **clear, professional, and GitHub-ready README.md** for your SQL healthcare project. You can copy–paste this directly into GitHub 👇
-
----
-
 # 🏥 Healthcare Patient Outcomes Analysis (MySQL)
 
 ## 📌 Project Overview
@@ -84,6 +80,4 @@ GROUP BY d.diagnosisname, o.outcomename;
 2. Import the provided `.sql` file into MySQL
 3. Execute the queries to view analytical results
 
-
-Just tell me 😊
 
